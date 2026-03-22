@@ -25,15 +25,14 @@ The system supports real-time prediction and stores results for historical analy
 	•	Uvicorn
 
 
-📂 Project Structure
 app/
-├── api/            # API routes
-├── services/       # Business logic
-├── schemas/        # Request validation
-├── core/           # Config & logging
-├── db/             # Database models & setup
-├── ml/             # ML model & training
-├── main.py         # Entry point
+├── api/
+├── services/
+├── schemas/
+├── core/
+├── db/
+├── ml/
+├── main.py
 
 🔹 Health Check
 
