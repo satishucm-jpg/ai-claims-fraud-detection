@@ -5,6 +5,16 @@ AI-powered fraud detection system using FastAPI, Machine Learning, and scalable 
 This project is a production-ready AI-powered fraud detection system built using FastAPI and Machine Learning.
 It predicts whether an insurance claim is fraudulent based on claim amount, customer age, and claim type.
 The system supports real-time prediction and stores results for historical analysis.
+## 📸 API Demo
+
+API Documentation
+![Docs](screenshots/docs.png)
+
+Fraud Prediction
+![Predict](screenshots/predict.png)
+
+Prediction History
+![History](screenshots/history.png)
 
 🧠 Features
 	•	Real-time fraud prediction using ML model
