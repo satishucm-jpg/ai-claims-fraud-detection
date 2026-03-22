@@ -1,3 +1,5 @@
+🚀 Live API: https://ai-fraud-api.onrender.com/docs
+
 # ai-claims-fraud-detection
 AI-powered fraud detection system using FastAPI, Machine Learning, and scalable backend architecture
 📌 Overview
